@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a paper entituled, A letter to a friend, upon the dissolving of the late Parliament, and the calling of a new one together, with a list of those that were against making the Prince and Princess of Orange, King and Queen</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25537</idno>
+            <idno type="STC">Wing A3328A</idno>
+            <idno type="STC">ESTC R210430</idno>
+            <idno type="EEBO-CITATION">99825436</idno>
+            <idno type="PROQUEST">99825436</idno>
+            <idno type="VID">29818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25537)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29818)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1754:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a paper entituled, A letter to a friend, upon the dissolving of the late Parliament, and the calling of a new one together, with a list of those that were against making the Prince and Princess of Orange, King and Queen</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Early works to 1800.</term>
+               <term>William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  History, (17th century) --  Early works to 1800.</term>
+               <term>Letter to a friend, upon the dissolving of the late Parliament, and the calling of a new one --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  Revolution of 1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:29818:1"/>
+            <head>An anſwer to a Paper Entituled, <hi>A Letter to a Friend,</hi> upon the diſ<g ref="char:EOLhyphen"/>ſolving of the late <hi>Parliament,</hi> and the calling of a <hi>New one</hi> together, with a Liſt of thoſe that were againſt making the <hi>Prince</hi> and <hi>Princeſs</hi> of <hi>Orange, King</hi> and <hi>Queen.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AS by the ſtrain and ſtile of your Letter, I may eaſily repute you one more precipi<g ref="char:EOLhyphen"/>tant than prudent, and more paſſionate than po<g ref="char:EOLhyphen"/>litick: So may I on rational Grounds, from the drift and deſign of your Letter, conclude you a great <hi>Jacobite,</hi> or vail'd Favorite of the late <hi>K. James:</hi> For in pretence of vindicating the pre<g ref="char:EOLhyphen"/>ſent <hi>King</hi>'s Intereſt, you firſt ſet up Marks of your own making, or Suppoſitions of your own Invention (which ought not to be ſuppoſed) and then fighting, with the Maggots of your own brain, to pleaſe your own fond fancy, you diſ<g ref="char:EOLhyphen"/>charge the Artillery of your pretended Zeal and Loyalty, at your own fooliſh propoſals. And for all you pretend, by your Wit and Loyalty, to antidote the fate which beſel his Majeſty's Pre<g ref="char:EOLhyphen"/>deceſſors, <hi>viz. the robbing him of his peoples affe<g ref="char:EOLhyphen"/>ctions, and then of his own Authority;</hi> yet could you not have fallen on a readier and ſurer way, to raiſe animoſities in the Kingdom, and bred jealouſies in the hearts of the Kings beſt Subjects. For at firſt you ſuppoſe a controverſy where re<g ref="char:EOLhyphen"/>ally there is none, <hi>viz.</hi> whether it was the Kings wiſdom, or to <hi>pleaſe himſelf with an Exerciſe of Regal power,</hi> and to look Great, that made him diſſolve this Parliament. Then <hi>Worthy Sir,</hi> (your own wiſdom acquieſcing with what his Majeſty did) you take up the Cudgels in his Vindicati<g ref="char:EOLhyphen"/>on, whilſt there is few or none to ſtrike at. Tho his Majeſty, in his laſt Speech to the Par<g ref="char:EOLhyphen"/>liament, when it was Prorogu'd, ſpoke more ſenſe, and gave greater Reaſons for what he did (tho in few words) than in all your long, learned, <hi>Legomachical Apology.</hi> Next, you caſt an Aſperſion on the Members of Parliament, that they were ignorant of what was fit to be done: and therefore you tell them, that the K. ſent them about their buſineſs, for <hi>not uniting the Proteſtants, and vindicating our Laws and Liberties, and puniſh thoſe who had ſubverted our Conſtitution,</hi> &amp;c. Truly <hi>Sir,</hi> there is much in this; for it wlil be found a difficult thing to unite <hi>the Church of England</hi> with <hi>Diſſenters,</hi> tho' they ſeemtodiffer but in matters of <hi>Ceremony.</hi> But if they did not make it their Buſineſs to vindicate the Laws and Liberties of the Nation, and deſign (in the right place) to puniſh thoſe who had ſubverted the Kingdoms Conſtitution; they were neither good Chriſtians, juſt Judges, nor wiſe States-men; nor any ways fit to ſtand at the Helm of publick affairs. But, till you prove your aſſertion, your contumeli<g ref="char:EOLhyphen"/>ous ſpeeches are but an aſperſion. The next thing you propoſe out of your wiſdom, is a ſpeedy means to clear <hi>the Kings Deſcent into En<g ref="char:EOLhyphen"/>gland,</hi> from being an <hi>ambitious Uſurpation.</hi> Tru<g ref="char:EOLhyphen"/>ly <hi>Sir,</hi> I believe there are few men of ſenſe that will repute the Kings Expedition to <hi>England</hi> an <hi>Unrighteous Invaſion,</hi> unleſs ſuch buſie men as you, by <hi>ſowing</hi> ſuch ſeeds of Diſſatisfaction, and ſetting up ſuch ſuppoſitions of Sedition and Fa<g ref="char:EOLhyphen"/>ction, gain the Weather-gage on a right Under<g ref="char:EOLhyphen"/>ſtanding, and lead the people to open Rebellion; and tho' you be pleaſed confidently to ſay, that His preſent Majeſty holdeth his Crown precari<g ref="char:EOLhyphen"/>ouſly, and that King <hi>James</hi>'s Abdication is eaſily reverſible, yet no man that is Maſter of his Reaſon, and knoweth the circumſtance of the late Revolution, and the preſent ſtate of <hi>Great Britain,</hi> will be ſo Fooliſh as to believe any ſuch thing, Unleſs he, likewiſe, believe that it is an eaſie matter to turn <hi>Britain</hi> to a <hi>Bedlam,</hi> and all the Inhabitants thereof to Mad-men; who would willingly forfeit their Religion, Lives, Laws and Liberties. Truly <hi>Sir</hi> (as I have ſaid) you could have fallen upon no ſurer way to do both King and Country a diskindneſs, than by ſuppoſing, un<g ref="char:EOLhyphen"/>der the pretence of a good meaning, thoſe Re<g ref="char:EOLhyphen"/>bellious Controverſies, which may breed Jea<g ref="char:EOLhyphen"/>louſies, make the beſt. Subjects queſtion the Foundation of their Loyalty, and deny their <hi>Allegiance</hi> to our preſent <hi>King.</hi> For how can thoſe Gentlemen (who becauſe in the twinkling of an Eye, they were ſurprized with a ſudden and unexpected Change and Revolution of Go<g ref="char:EOLhyphen"/>vernment, and could not be reſolved in a mo<g ref="char:EOLhyphen"/>ment, nor be ſatisfied in Conſcience, at a word, whether they owed any <hi>Allegiance</hi> to <hi>King James</hi> or not) be now pleaſed to ſee their Names Liſted, Poſted, and expoſed as Diſſenters from the preſent Government, Stigmatiz'd with the Title of <hi>Jacobites,</hi> and <hi>not likely to be true and laſting friends to King WILLIAMS Soveraignty?</hi> and conſequently, unworthy to be Members of Parliament, or to have any hand in State Affairs, and undeſerving of the King's favour? Now how can any Parliament at this rate be reputed free, When they ly under the laſh of ſuch diſgraceful and murdering aſperſions? I ſhall not meddle with more of your Letter; but take this of me: Men of leaſt Conſcience ſooneſt ſatisfie greateſt ſcruples, and he's neither good Divine or good States-Man, that would divide a Kingdom againſt it ſelf: For as <hi>Saluſt de Bello Jugurth.</hi> ſaith, <q>Concordia res parvae creſcunt, Diſcordia autem maximae delabunter.</q> 
+               <hi>Callicratidas</hi> being affronted by <hi>King Cyrus</hi> in his Embaſſie, when he returned to <hi>Sparta,</hi> broke out in theſe words: <q>I ſhall uſe the beſt of my en<g ref="char:EOLhyphen"/>deavours, to reconcile the Greeks among themſelves, that they may be the more formidable to theſe <hi>Bar<g ref="char:EOLhyphen"/>barians,</hi> and leaving off all Controverſies among theſmelves, they may no more ſtand in need of help from that prodigal King.</q> And of this Man's re<g ref="char:EOLhyphen"/>ſolution <hi>Conrad Lycoſthenes</hi> ſpeaketh thus: <q>Singu<g ref="char:EOLhyphen"/>laris profecto fuit prudentiae vir, quod perſpexit Graecos non alia magis ratione poſſe reddi Barbar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s formidabiles, quam ſi depoſitis inteſtinis ſimultatibus, mutam inter ſe concordiam ſancirent.</q> 
+               <hi>Plut. in Lacon apoph. Scipio Africanus</hi> asked <hi>Tyreſius,</hi> how the <hi>Numantians,</hi> who were once reputed ſo War<g ref="char:EOLhyphen"/>like a People, were ſo eaſily broke and over<g ref="char:EOLhyphen"/>thrown. <hi>Tyreſius</hi> anſwered, <q>concordia Victoriam, Diſcordia exitium praebuit.</q> Thus Concord and Unity are the Sinews, Strength, and Victory of a Nation, which, (with Faith, Truth, and God's favour) I pray this <hi>Iſle of Britain,</hi> and all true. Chriſtians may long enjoy.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>With Allowance.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
